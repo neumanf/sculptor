@@ -42,7 +42,7 @@ int main ()
     auto insertBallSelector = [&] (int x, int y, int z) {
         bowlingScene.setColor (0, 0, 0, 0.5);                                  // Cinza
         bowlingScene.putBox (x, x + 80, y, y + 40, z, z + 30);                 // Base
-        bowlingScene.setColor (0, 0, 0, 0.25);                                 // Branco
+        bowlingScene.setColor (0, 0, 0, 0.25);                                 // Cinza
         bowlingScene.putEllipsoid (x + 60, y + 50, z + 17, 50, 15, 20);        // Seletor
         bowlingScene.cutEllipsoid (x + 30, y + 50, z + 17, 40, 15, 16);        // Orifício
         bowlingScene.cutBox (x, x + 60, y + 40, y + 70, z - 10, z + 40);       // Saida
@@ -70,13 +70,3 @@ int main ()
 
     return 0;
 }
-
-// Pino
-// bowlingScene.setColor (1, 1, 1, 1);               // Branco
-// bowlingScene.putEllipsoid (30, 13, 30, 8, 15, 8); // Corpo
-// bowlingScene.cutBox (25, 35, 0, 1, 25, 35);       // Corte no fundo
-// bowlingScene.putEllipsoid (30, 28, 30, 3, 8, 3);  // Pescoco
-// bowlingScene.putSphere (30, 34, 30, 5);           // Cabeca
-
-// bowlingScene.setColor (1, 0, 0, 1);     // Vermelho
-// bowlingScene.putSphere (30, 21, 30, 6); // Detalhe
