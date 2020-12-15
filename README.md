@@ -1,6 +1,6 @@
 # Escultor 3D
 
-**Escultor 3D** é uma ferramenta capaz de criar esculturas em blocos tridimensionais e exportá-los em Object File Format (OFF). 
+**Escultor 3D** é uma ferramenta capaz de criar esculturas em blocos tridimensionais e exportá-los em Object File Format (OFF).
 
 ## 🔨 Build
 
@@ -26,6 +26,7 @@ $ geomview boliche.off
 ```
 
 ## 📜 Requerimentos
+
 - g++
 - make
 - geomview
