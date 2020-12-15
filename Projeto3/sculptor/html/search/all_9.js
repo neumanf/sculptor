@@ -1,0 +1,20 @@
+var searchData=
+[
+  ['s_22',['s',['../class_plotter.html#a7b5897919fce8604df0781139e47967a',1,'Plotter']]],
+  ['savetofile_23',['saveToFile',['../class_plotter.html#a84540ce8dbef086b7d4651a6e677e08d',1,'Plotter']]],
+  ['sculptor_24',['Sculptor',['../class_sculptor.html',1,'Sculptor'],['../class_sculptor.html#a014e3ef5517bf0e9d9e14486b6ac6433',1,'Sculptor::Sculptor()']]],
+  ['setb_25',['setB',['../class_plotter.html#a8a700f94acfaa5b4a560955bce924476',1,'Plotter']]],
+  ['setboxxdim_26',['setBoxXDim',['../class_plotter.html#a484b926e93ce76f54c16e0aca8f66ad3',1,'Plotter']]],
+  ['setboxydim_27',['setBoxYDim',['../class_plotter.html#a477a163de2d1caecef5082cc76b92376',1,'Plotter']]],
+  ['setboxzdim_28',['setBoxZDim',['../class_plotter.html#a74a39b6a113f15ea9a8b61dc768ca001',1,'Plotter']]],
+  ['setcolor_29',['setColor',['../class_sculptor.html#af1d69da01379874b0dfd6454787cb562',1,'Sculptor']]],
+  ['setcurrentobjectid_30',['setCurrentObjectId',['../class_plotter.html#a7f95020cbd4525b7781359d189634990',1,'Plotter']]],
+  ['setdimensions_31',['setDimensions',['../class_plotter.html#a7494c5e6a5980919b65fa5a24bc71c06',1,'Plotter']]],
+  ['setg_32',['setG',['../class_plotter.html#a86545ef554018f2d9e83fb84be55fd5b',1,'Plotter']]],
+  ['setr_33',['setR',['../class_plotter.html#a1dab65b406fdfdfd814028b30caf45db',1,'Plotter']]],
+  ['setradius_34',['setRadius',['../class_plotter.html#a85157b92d1f35cef62db608a081ffe7b',1,'Plotter']]],
+  ['setrx_35',['setRx',['../class_plotter.html#afbdd4974539cd64e32ff113c7da12e24',1,'Plotter']]],
+  ['setry_36',['setRy',['../class_plotter.html#ad4b564b3c88ba72b0cc167a0885c30f1',1,'Plotter']]],
+  ['setrz_37',['setRz',['../class_plotter.html#a835acabe5bc9646293719c78dacd2e82',1,'Plotter']]],
+  ['setz_38',['setZ',['../class_plotter.html#adf8847dd358652e783532d8cd40e5eb6',1,'Plotter']]]
+];
