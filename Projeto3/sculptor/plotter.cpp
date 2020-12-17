@@ -15,10 +15,21 @@ Plotter::Plotter(QWidget *parent) : QWidget(parent)
     yDim = 20;
     zDim = 20;
     currentZ = 0;
+
     currentObjectId = 0;
+
     r = 0;
     g = 0;
     b = 0;
+
+    radius = 0;
+    rx = 0;
+    ry = 0;
+    rz = 0;
+
+    boxXDim = 0;
+    boxYDim = 0;
+    boxZDim = 0;
 
     s = new Sculptor(xDim, yDim, zDim);
 }
